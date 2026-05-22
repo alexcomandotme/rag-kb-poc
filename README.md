@@ -1,4 +1,4 @@
-# RAG Knowledge Base — Accelerator
+# RAG Knowledge Base 
 
 ## Problem
 Companies store years of technical documentation across wikis, PDFs, and internal tools. Employees waste hours searching for answers that already exist.
